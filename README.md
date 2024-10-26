@@ -1,4 +1,33 @@
-[TOC]
+# Table of Contents
+
+1. [FIGMA](#figma)
+2. [REST](#rest)
+   1. [Enam Prinsip Panduan REST](#i-enam-prinsip-panduan-rest)
+      - [Uniform Interface](#1-uniform-interface)
+      - [Client-Server](#2-client-server)
+      - [Stateless](#3-stateless)
+      - [Cacheable](#4-cacheable)
+      - [Layered System](#5-layered-system)
+      - [Code on Demand (Optional)](#6-code-on-demand-optional)
+   2. [Apa Itu Sumber Daya?](#ii-apa-itu-sumber-daya)
+      - [Identifikasi resources](#1-identifikasi-resources)
+      - [Hypermedia](#2-hypermedia)
+      - [Self-Descriptive](#3-self-descriptive)
+      - [Example](#4-example)
+   3. [Resource Methods](#iii-resource-methods)
+   4. [REST and HTTP are Not the Same](#iv-rest-and-http-are-not-the-same)
+   5. [Summary](#v-summary)
+3. [CRUD API](#crud-api)
+   1. [Setup](#setup)
+   2. [Penjelasan Kode](#penjelasan-kode)
+   3. [CURL](#curl)
+      - [Create Product](#1-create-product)
+      - [Read All Products](#2-read-all-products)
+      - [Read Single Product by ID](#3-read-single-product-by-id)
+      - [Update Product by ID](#4-update-product-by-id)
+      - [Delete Product by ID](#5-delete-product-by-id)
+   4. [Source Code](#source-code)
+   5. [Referensi](#referensi)
 
 # FIGMA
 Berikut adalah desain figma dari tugas minggu sebelumnya.
