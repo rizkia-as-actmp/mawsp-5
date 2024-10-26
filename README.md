@@ -1,4 +1,13 @@
-<h1 align="center">REST</h1>
+[TOC]
+
+# FIGMA
+Berikut adalah desain figma dari tugas minggu sebelumnya.
+
+<div style="text-align: center;">
+    <img src="./md/figma.png" alt="Contoh resource">
+</div>
+
+# REST
 
 REST, (REpresentational State Transfer), adalah *architectural style* *untuk distributed hypermedia systems*. Diperkenalkan pertama kali oleh Roy Fielding pada tahun 2000 dalam disertasinya, REST telah menjadi salah satu *architectural style* paling umum dalam *development* API berbasis web.
 
@@ -108,7 +117,7 @@ And most importantly, every interaction with the server must be stateless.
 
 All these principles help RESTful applications to be simple, lightweight, and fast.
 
-<h1 align="center">CRUD API</h1>
+# CRUD API
 Disini saya akan membuat API untuk melakukan operasi CRUD untuk pengelolaan product. API ini saya buat dengan menggunakan framework JS yaitu fastify dan agar simpel databasenya saya gunakan MySQL.
 
 ### Setup
