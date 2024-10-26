@@ -3,6 +3,8 @@
 **Nama**: Rizkia Adhy Syahputra  
 **NPM**: 5220411051
 
+[Repository tugas](https://github.com/rizkia-as-actmp/mawsp-5)
+
 # Table of Contents
 
 1. [FIGMA](#figma)
