@@ -1,3 +1,8 @@
+### Tugas Minggu ke 5 MAWSP 10
+------------
+**Nama**: Rizkia Adhy Syahputra  
+**NPM**: 5220411051
+
 # Table of Contents
 
 1. [FIGMA](#figma)
